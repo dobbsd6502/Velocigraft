@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Velocigraft/static/css/main.c4a89684.css",
+    "main.js": "/Velocigraft/static/js/main.f2b34cc2.js",
+    "static/media/VelocigraftLogoTransparent.png": "/Velocigraft/static/media/VelocigraftLogoTransparent.6887e27ad07863fc8067.png",
+    "static/media/VelocigraftLogo.png": "/Velocigraft/static/media/VelocigraftLogo.5551b03e1edbb6c92c3d.png",
+    "index.html": "/Velocigraft/index.html",
+    "main.c4a89684.css.map": "/Velocigraft/static/css/main.c4a89684.css.map",
+    "main.f2b34cc2.js.map": "/Velocigraft/static/js/main.f2b34cc2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4a89684.css",
+    "static/js/main.f2b34cc2.js"
+  ]
+}
